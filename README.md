@@ -1,12 +1,9 @@
-### Hi there 👋
-- 🌱 Interest: Human-Computer Interaction
+### Hi there， this is Meng 👋
+- 🌟 Interest: Human-Computer Interaction(HCI) 🤖️; Cognitive Science 🧠
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: mchen24@nd.edu
-
+- 💬 Lang: :cn: :us:
 <!--
-**Casardo-Chen/Casardo-Chen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
