@@ -1,4 +1,5 @@
 ### Hi there 👋
+- 🌱 Interest: Human-Computer Interaction
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: mchen24@nd.edu
 
