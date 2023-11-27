@@ -1,4 +1,4 @@
-### Hi there， this is Meng 👋
+### Hi there, this is Meng 👋
 - 🌟 Interest: Human-Computer Interaction(HCI) 🤖️; Cognitive Science 🧠
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: [email](mchen24@nd.edu) | [linkedin](https://www.linkedin.com/in/mengchen24/) | [twitter](https://twitter.com/mengchen_24)
