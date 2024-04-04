@@ -1,5 +1,5 @@
 ### Hi there, this is Meng 👋
-- 🌟 Interest: Human-Computer Interaction(HCI) 🤖️; Cognitive Science 🧠
+- 🌟 Currently working on: AI-powered Creativity Support Tools 🎨; Human-AI Collaboration 🧠
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: [email](mchen24@nd.edu) | [linkedin](https://www.linkedin.com/in/mengchen24/) | [twitter](https://twitter.com/mengchen_24)
 - 💬 Lang: :cn: :us:
