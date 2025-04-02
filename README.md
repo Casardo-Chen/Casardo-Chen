@@ -1,5 +1,5 @@
 ### Hi there, this is Meng 👋
-- 🌟 Currently working on: Human-AI Interaction 🧠; AI-powered Creativity Support Tools 🎨;
+- 🌟 Currently working on: Human-AI Interaction 🧠; Creativity 🎨; Accessibility 🧑‍🦯; Uncertainty 🌫️
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: [email](mengchen@utexas.edu) | [linkedin](https://www.linkedin.com/in/mengchen24/) | [twitter](https://twitter.com/mengchen_24)
 - 💬 Lang: :cn: :us:
