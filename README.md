@@ -1,7 +1,7 @@
 ### Hi there, this is Meng 👋
 - 🌟 Currently working on: Human-AI Interaction
 - 😄 Pronouns: He/Him
-- 📫 How to reach me: [email](mengchen@utexas.edu) | [linkedin](https://www.linkedin.com/in/mengchen24/) | [twitter](https://twitter.com/mengchen_24)
+- 📫 How to reach me: [email](meng.chen@berkeley.edu) | [linkedin](https://www.linkedin.com/in/mengchen24/) | [twitter](https://twitter.com/mengchen_24)
 - 💬 Lang: :cn: :us:
 <!--
 
